@@ -27,6 +27,7 @@
       <div style="text-align: center;">
         <img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200" style="display: block; margin: 0 auto;">
         <p> </p>
+        <p> </p>
         <p><strong>Hardware Architecture</strong></p>
       </div>
     </td>
