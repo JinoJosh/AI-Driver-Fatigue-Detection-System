@@ -1,14 +1,32 @@
 # AI-Powered Driver Fatigue Detection System
 <table>
   <tr>
-    <td><img src="./Images/Glasses-LeftView.jpg" width="200"></td>
-    <td><img src="./Images/Glasses-FrontView.jpg" width="200"></td>
-    <td><img src="./Images/Glasses-RightView.jpg" width="200"></td>
+    <td style="text-align: center;">
+      <img src="./Images/Glasses-LeftView.jpg" width="200">
+      <p><strong>Left View</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <img src="./Images/Glasses-FrontView.jpg" width="200">
+      <p><strong>Front View</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <img src="./Images/Glasses-RightView.jpg" width="200">
+      <p><strong>Right View</strong></p>
+    </td>
   </tr>
   <tr>
-    <td><img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200"></td>
-    <td><img src="./Images/OverallSystemArchitecture.png" width="200"></td>
-    <td><img src="./Images/TechnologyStack_AntiSleepGlasses.png" width="200"></td>
+    <td style="text-align: center;">
+      <img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200">
+      <p><strong>Hardware Architecture</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <img src="./Images/OverallSystemArchitecture.png" width="200">
+      <p><strong>System Architecture</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <img src="./Images/TechnologyStack_AntiSleepGlasses.png" width="200">
+      <p><strong>Tech Stack</strong></p>
+    </td>
   </tr>
 </table>
 
