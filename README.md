@@ -1,5 +1,4 @@
 # AI-Powered Driver Fatigue Detection System
-### Link to video: https://youtu.be/BF8eujmj6Ng?si=zZ3N7GMi3SAXTKAK
 <div align="center">
 
 <table>
@@ -46,7 +45,7 @@
 </table>
 
 </div>
-
+#### Link to video: https://youtu.be/BF8eujmj6Ng?si=zZ3N7GMi3SAXTKAK
 ## Overview
 
 This project was developed as my final-year Bachelor of Information Technology capstone project at Belgium Campus iTversity.
