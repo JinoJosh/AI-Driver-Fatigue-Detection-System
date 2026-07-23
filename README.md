@@ -1,6 +1,6 @@
-# AI-Powered Driver Fatigue Detection System
-
 <div align="center">
+   
+# AI-Powered Driver Fatigue Detection System
 
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded-orange)
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-Microcontroller-red)
