@@ -125,9 +125,7 @@ This repository contains:
 
 - Project planning documentation
 - System architecture and design information
-- Project reports
-- Demonstration video
-- Supporting project resources
+- Demonstration video link
 
 > **Note:** The original source code for this project was unfortunately lost after the project was completed. This repository has been created to preserve the project's documentation, design decisions, system architecture, and a full demonstration of the completed prototype.
 
@@ -154,7 +152,6 @@ The walkthrough video included in this repository provides a complete overview o
 - Bluetooth Low Energy communication
 - Android companion application
 - Vehicle speaker integration via Bluetooth
-- Modular hardware and software architecture
 
 ---
 
