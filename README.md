@@ -1,34 +1,50 @@
 # AI-Powered Driver Fatigue Detection System
+<div align="center">
+
 <table>
   <tr>
-    <td style="text-align: center;">
-      <img src="./Images/Glasses-LeftView.jpg" width="200">
-      <p><strong>Left View</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/Glasses-LeftView.jpg" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>Left View</strong></p>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="./Images/Glasses-FrontView.jpg" width="200">
-      <p><strong>Front View</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/Glasses-FrontView.jpg" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>Front View</strong></p>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="./Images/Glasses-RightView.jpg" width="200">
-      <p><strong>Right View</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/Glasses-RightView.jpg" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>Right View</strong></p>
+      </div>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200">
-      <p><strong>Hardware Architecture</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>Hardware Architecture</strong></p>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="./Images/OverallSystemArchitecture.png" width="200">
-      <p><strong>System Architecture</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/OverallSystemArchitecture.png" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>System Architecture</strong></p>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="./Images/TechnologyStack_AntiSleepGlasses.png" width="200">
-      <p><strong>Tech Stack</strong></p>
+    <td>
+      <div style="text-align: center;">
+        <img src="./Images/TechnologyStack_AntiSleepGlasses.png" width="200" style="display: block; margin: 0 auto;">
+        <p><strong>Tech Stack</strong></p>
+      </div>
     </td>
   </tr>
 </table>
+
+</div>
 
 ## Overview
 
