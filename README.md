@@ -6,9 +6,9 @@
     <td><img src="./Images/Glasses-RightView.jpg" width="200"></td>
   </tr>
   <tr>
-    <td><img src="./Images/HardwareArchitecture_AntiSleepGlasses" width="200"></td>
-    <td><img src="./Images/OverallSystemArchitecture" width="200"></td>
-    <td><img src="./Images/TechnologyStack_AntiSleepGlasses" width="200"></td>
+    <td><img src="./Images/HardwareArchitecture_AntiSleepGlasses.png" width="200"></td>
+    <td><img src="./Images/OverallSystemArchitecture.png" width="200"></td>
+    <td><img src="./Images/TechnologyStack_AntiSleepGlasses.png" width="200"></td>
   </tr>
 </table>
 
