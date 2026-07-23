@@ -1,5 +1,7 @@
 # AI-Powered Driver Fatigue Detection System
 
+![Left View](./images/Glasses-LeftView) ![Front view](./images/Glasses-FrontView) ![Right View](./images/Glasses-RightView) 
+
 ## Overview
 
 This project was developed as my final-year Bachelor of Information Technology capstone project at Belgium Campus iTversity.
