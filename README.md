@@ -1,19 +1,30 @@
 <div align="center">
-   
-# AI-Powered Driver Fatigue Detection System
 
-![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded-orange)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-Microcontroller-red)
-![Arduino](https://img.shields.io/badge/Arduino-Framework-00979D)
-![C++](https://img.shields.io/badge/C%2B%2B-Language-00599C)
-![Android](https://img.shields.io/badge/Android-App-3DDC84)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-Low_Energy-blue)
-![IoT](https://img.shields.io/badge/IoT-Final_Year_Project-success)
+<h1>AI-Powered Driver Fatigue Detection System</h1>
 
-### Final-Year Bachelor of Information Technology Capstone Project  
-**Belgium Campus iTversity**
+<p>
+<img src="https://img.shields.io/badge/PlatformIO-Embedded-orange">
+<img src="https://img.shields.io/badge/ESP32--S3-Microcontroller-red">
+<img src="https://img.shields.io/badge/Arduino-Framework-00979D">
+<img src="https://img.shields.io/badge/C%2B%2B-Language-00599C">
+<img src="https://img.shields.io/badge/Android-App-3DDC84">
+<img src="https://img.shields.io/badge/Bluetooth-Low_Energy-blue">
+<img src="https://img.shields.io/badge/IoT-Final_Year_Project-success">
+</p>
 
+<h3>Final-Year Bachelor of Information Technology Capstone Project</h3>
+
+<b>Belgium Campus iTversity</b>
+
+<br><br>
+
+<img src="./Images/Glasses-FrontView.jpg" alt="AI Driver Fatigue Detection Smart Glasses" width="650"/>
+
+<br><br>
+
+<i>
 An IoT-based wearable system that detects driver fatigue using smart glasses and alerts the driver through haptic feedback, an Android application, and the vehicle's speakers.
+</i>
 
 </div>
 
