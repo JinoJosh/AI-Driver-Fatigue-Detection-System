@@ -1,6 +1,16 @@
 # AI-Powered Driver Fatigue Detection System
-
-![Left View](/Images/Glasses-LeftView.jpg) ![Front view](/Images/Glasses-FrontView.jpg) ![Right View](/Images/Glasses-RightView.jpg) 
+<table>
+  <tr>
+    <td><img src="./Images/Glasses-LeftView.jpg" width="200"></td>
+    <td><img src="./Images/Glasses-FrontView.jpg" width="200"></td>
+    <td><img src="./Images/Glasses-RightView.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="./Images/HardwareArchitecture_AntiSleepGlasses" width="200"></td>
+    <td><img src="./Images/OverallSystemArchitecture" width="200"></td>
+    <td><img src="./Images/TechnologyStack_AntiSleepGlasses" width="200"></td>
+  </tr>
+</table>
 
 ## Overview
 
